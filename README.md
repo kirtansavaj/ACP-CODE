@@ -72,3 +72,5 @@ Output:
 A general summary from the first agent
 
 A fact-checked and updated version from the second agent
+
+AUTHOR - KIRTAN SAVAJ
